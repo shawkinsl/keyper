@@ -2,6 +2,8 @@
 
 [![PyPi Version](https://img.shields.io/pypi/v/keyper.svg)](https://pypi.org/project/keyper/)
 [![License](https://img.shields.io/pypi/l/keyper.svg)](https://github.com/Microsoft/keyper/blob/master/LICENSE)
+[comment]: <> (TODO: include the badge, ex below)
+[comment]: <> ([![Build](https://dev.azure.com/shawkinsl/keyper-ci-poc/_apis/build/repos/github/badge?repoId=shawkinsl/keyper&api-version=4.1-preview.1&branchName=master)](https://dev.azure.com/shawkinsl/keyper-ci-poc/_build?definitionId=1))
 
 A Python 3 library for dealing with the macOS Keychain
 

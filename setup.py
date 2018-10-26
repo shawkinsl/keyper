@@ -30,8 +30,8 @@ def run_setup():
         author='Dale Myers',
         author_email='dalemy@microsoft.com',
         license='MIT',
-        install_requires=[],
-        python_requires='>=3.7',
+        install_requires=["future-fstrings"],
+        python_requires='>=3.5',
         classifiers=[
             'Development Status :: 3 - Alpha',
             'Environment :: Console',
